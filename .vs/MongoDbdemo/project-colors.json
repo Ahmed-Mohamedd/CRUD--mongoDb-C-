@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "846f7664-face-4a15-a175-a7cdc0aa7200": {
+      "ProjectGuid": "846f7664-face-4a15-a175-a7cdc0aa7200",
+      "DisplayName": "MongoDbdemo",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
